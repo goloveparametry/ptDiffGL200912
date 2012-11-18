@@ -64,7 +64,7 @@ getCurrentTable <- function(s, r) {
   # print(ts)
   
   # return difference between first and last
-  c(names[ts[length(ts)]], ts[length(ts)], names[ts[1]], ts[1])
+  c(names(ts[length(ts)]), ts[length(ts)], names(ts[1]), ts[1])
 }    
                          
 df <- data.frame(num=rep(NA, 30), t1=rep("", 30), t1_p=rep("", 30), tl=rep("", 30), tl_p=rep("", 30),stringsAsFactors=FALSE)
