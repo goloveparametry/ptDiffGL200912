@@ -64,11 +64,45 @@ getCurrentTable <- function(s, r) {
   # print(ts)
   
   # return difference between first and last
-  c(names(ts[length(ts)]), ts[length(ts)], names(ts[1]), ts[1])
+  c(names(ts[length(ts)]), ts[length(ts)], 
+    names(ts[length(ts)-1]), ts[length(ts)-1], 
+    names(ts[2]), ts[2],
+    names(ts[1]), ts[1])
 }    
+
+# final
+
                          
-df <- data.frame(num=rep(NA, 30), t1=rep("", 30), t1_p=rep("", 30), tl=rep("", 30), tl_p=rep("", 30),stringsAsFactors=FALSE)
-for(i in 1:30) {
-  df[i,] <- c(i, getCurrentTable(1,i))
-}
+s <- c("2009-10","2010-11","2011-12")
+
+for (i in 1:3) {                         
+  df <- data.frame(num=rep(NA, 30), 
+                   t1=rep("", 30), t1_p=rep("", 30),
+                   t2=rep("", 30), t2_p=rep("", 30),
+                   tr1=rep("", 30), tr1_p=rep("", 30),
+                   tr2=rep("", 30), tr2_p=rep("", 30),
+                   stringsAsFactors=FALSE)
+  for(j in 1:30) {
+    df[j,] <- c(j, getCurrentTable(i,j))
+  }
+  
+  # graphics  
+  png(filename=paste("gcs/plot",s[i],".png",sep=""))
+  plot(df$num, df$t1_p, 
+       type="l",
+       col="green", 
+       #main=paste("Gambrinus Liga: Point margin", s[i]), 
+       xlab="week", ylab="pts", 
+       ylim=c(0,70))
+  lines(df$num, df$t2_p, col="orange")
+  lines(df$num, df$tr1_p, col="red")
+  lines(df$num, df$tr2_p, col="red")
+  dev.off()  
+  
+  # export
+  write.table(df,file=paste("data/df",s[i],".txt",sep=""), row.names=F)
+                         
+}                         
+                         
+                         
              
