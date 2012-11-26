@@ -101,7 +101,7 @@ for (i in 1:3) {
   dev.off()  
   
   # export
-  write.csv(df[,c(1,3,5,9)],file=paste("data/df",s[i],".txt",sep=""), row.names=F, quote=F)
+  write.csv(df,file=paste("data/df",s[i],".txt",sep=""), row.names=F, quote=F)
                          
 }                         
                          

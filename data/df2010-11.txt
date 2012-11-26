@@ -1,31 +1,31 @@
-num,t1_p,t2_p,tr2_p
-1,3,3,0
-2,4,4,0
-3,7,6,0
-4,10,8,0
-5,13,11,3
-6,16,14,3
-7,19,15,3
-8,22,16,5
-9,25,19,8
-10,28,19,9
-11,31,22,9
-12,34,22,9
-13,34,25,12
-14,37,28,12
-15,40,31,12
-16,41,34,12
-17,41,37,12
-18,44,40,12
-19,45,43,12
-20,48,43,15
-21,51,46,15
-22,54,46,15
-23,55,49,15
-24,58,52,15
-25,59,55,18
-26,60,56,18
-27,63,59,18
-28,66,62,19
-29,69,65,19
-30,69,68,19
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,FK Mladá Boleslav,3,FK Jablonec,3,FK Ústí nad Labem,0,FK Teplice,0
+2,Viktoria Plzeň,4,Sigma Olomouc,4,Zbrojovka Brno,0,FK Teplice,0
+3,Viktoria Plzeň,7,1. FC Slovácko,6,FK Teplice,1,Zbrojovka Brno,0
+4,Viktoria Plzeň,10,Slavia Praha,8,FK Teplice,2,Zbrojovka Brno,0
+5,Viktoria Plzeň,13,Sigma Olomouc,11,FK Ústí nad Labem,4,Zbrojovka Brno,3
+6,Viktoria Plzeň,16,Sigma Olomouc,14,Baník Ostrava,5,Zbrojovka Brno,3
+7,Viktoria Plzeň,19,Sigma Olomouc,15,Baník Ostrava,5,Zbrojovka Brno,3
+8,Viktoria Plzeň,22,Sigma Olomouc,16,Zbrojovka Brno,6,Baník Ostrava,5
+9,Viktoria Plzeň,25,Sigma Olomouc,19,1. FK Příbram,9,Baník Ostrava,8
+10,Viktoria Plzeň,28,Sparta Praha,19,Baník Ostrava,9,1. FK Příbram,9
+11,Viktoria Plzeň,31,Sparta Praha,22,Bohemians 1905,10,Zbrojovka Brno,9
+12,Viktoria Plzeň,34,Sparta Praha,22,FK Ústí nad Labem,11,Zbrojovka Brno,9
+13,Viktoria Plzeň,34,Sparta Praha,25,FK Ústí nad Labem,12,Baník Ostrava,12
+14,Viktoria Plzeň,37,Sparta Praha,28,Zbrojovka Brno,12,FK Ústí nad Labem,12
+15,Viktoria Plzeň,40,Sparta Praha,31,Zbrojovka Brno,12,FK Ústí nad Labem,12
+16,Viktoria Plzeň,41,Sparta Praha,34,Zbrojovka Brno,15,FK Ústí nad Labem,12
+17,Viktoria Plzeň,41,Sparta Praha,37,Zbrojovka Brno,15,FK Ústí nad Labem,12
+18,Viktoria Plzeň,44,Sparta Praha,40,Zbrojovka Brno,16,FK Ústí nad Labem,12
+19,Viktoria Plzeň,45,Sparta Praha,43,Zbrojovka Brno,16,FK Ústí nad Labem,12
+20,Viktoria Plzeň,48,Sparta Praha,43,Zbrojovka Brno,19,FK Ústí nad Labem,15
+21,Viktoria Plzeň,51,Sparta Praha,46,Zbrojovka Brno,19,FK Ústí nad Labem,15
+22,Viktoria Plzeň,54,Sparta Praha,46,Zbrojovka Brno,19,FK Ústí nad Labem,15
+23,Viktoria Plzeň,55,Sparta Praha,49,Zbrojovka Brno,19,FK Ústí nad Labem,15
+24,Viktoria Plzeň,58,Sparta Praha,52,Zbrojovka Brno,19,FK Ústí nad Labem,15
+25,Viktoria Plzeň,59,Sparta Praha,55,Zbrojovka Brno,19,FK Ústí nad Labem,18
+26,Viktoria Plzeň,60,Sparta Praha,56,Zbrojovka Brno,20,FK Ústí nad Labem,18
+27,Viktoria Plzeň,63,Sparta Praha,59,Zbrojovka Brno,23,FK Ústí nad Labem,18
+28,Viktoria Plzeň,66,Sparta Praha,62,Zbrojovka Brno,24,FK Ústí nad Labem,19
+29,Viktoria Plzeň,69,Sparta Praha,65,Zbrojovka Brno,24,FK Ústí nad Labem,19
+30,Viktoria Plzeň,69,Sparta Praha,68,Zbrojovka Brno,24,FK Ústí nad Labem,19
