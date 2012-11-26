@@ -75,7 +75,7 @@ getCurrentTable <- function(s, r) {
                          
 s <- c("2009-10","2010-11","2011-12")
 
-for (i in 1:1) {                         
+for (i in 1:3) {                         
   df <- data.frame(num=rep(NA, 30), 
                    t1=rep("", 30), t1_p=rep("", 30),
                    t2=rep("", 30), t2_p=rep("", 30),
@@ -97,7 +97,7 @@ for (i in 1:1) {
   lines(df$num, df$t2_p, col="orange")
   lines(df$num, df$tr1_p, col="red")
   lines(df$num, df$tr2_p, col="red")
-  text(x = 30, y=df[30,c(3,5,7,9)],  labels = df[30,c(2,4,6,8)], cex=0.6, adj=c(1,0))
+  text(x = 30, y=df[30,c(3,5,7,9)],  labels = df[30,c(2,4,6,8)], cex=0.6, adj=c(1,-.5))
   dev.off()  
   
   # export
