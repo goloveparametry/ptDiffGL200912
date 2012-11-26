@@ -20,7 +20,7 @@ b <- NULL
 for(i in 1:30) a <- c(a,c(rep(i,8)))
 gl09f$rnd <- a
 
-for(i in 1:3) b <- c(b,c(rep(i,240)
+for(i in 1:3) b <- c(b,c(rep(i,240)))
 gl09f$season <- b
 
 gl09f$Date <- as.Date(gl09f$Date, "%d.%m.%Y")
@@ -75,7 +75,7 @@ getCurrentTable <- function(s, r) {
                          
 s <- c("2009-10","2010-11","2011-12")
 
-for (i in 1:3) {                         
+for (i in 1:1) {                         
   df <- data.frame(num=rep(NA, 30), 
                    t1=rep("", 30), t1_p=rep("", 30),
                    t2=rep("", 30), t2_p=rep("", 30),
@@ -91,16 +91,17 @@ for (i in 1:3) {
   plot(df$num, df$t1_p, 
        type="l",
        col="green", 
-       #main=paste("Gambrinus Liga: Point margin", s[i]), 
+       main=paste("Gambrinus Liga: Point margin", s[i]), 
        xlab="week", ylab="pts", 
        ylim=c(0,70))
   lines(df$num, df$t2_p, col="orange")
   lines(df$num, df$tr1_p, col="red")
   lines(df$num, df$tr2_p, col="red")
+  text(x = 30, y=df[30,c(3,5,7,9)],  labels = df[30,c(2,4,6,8)], cex=0.6, adj=c(1,0))
   dev.off()  
   
   # export
-  write.table(df,file=paste("data/df",s[i],".txt",sep=""), row.names=F)
+  write.csv(df[,c(1,3,5,9)],file=paste("data/df",s[i],".txt",sep=""), row.names=F, quote=F)
                          
 }                         
                          

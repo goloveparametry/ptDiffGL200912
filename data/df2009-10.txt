@@ -1,31 +1,31 @@
-"num" "t1" "t1_p" "t2" "t2_p" "tr1" "tr1_p" "tr2" "tr2_p"
-"1" "Viktoria Plzeň" "3" "Sigma Olomouc" "3" "1. FK Příbram" "0" "1. FC Slovácko" "0"
-"2" "České Budějovice" "4" "Zbrojovka Brno" "4" "Bohemians Praha" "0" "1. FC Slovácko" "0"
-"3" "Zbrojovka Brno" "7" "FK Mladá Boleslav" "7" "SK Kladno" "1" "Bohemians Praha" "0"
-"4" "Zbrojovka Brno" "10" "FK Mladá Boleslav" "10" "SK Kladno" "1" "Bohemians Praha" "0"
-"5" "FK Jablonec" "13" "Zbrojovka Brno" "11" "SK Kladno" "1" "Bohemians Praha" "0"
-"6" "FK Jablonec" "14" "FK Teplice" "12" "Bohemians Praha" "3" "SK Kladno" "1"
-"7" "FK Teplice" "15" "FK Jablonec" "14" "SK Kladno" "4" "Bohemians Praha" "3"
-"8" "FK Teplice" "18" "FK Jablonec" "17" "Bohemians Praha" "6" "České Budějovice" "5"
-"9" "FK Jablonec" "20" "FK Teplice" "19" "Bohemians Praha" "6" "České Budějovice" "5"
-"10" "FK Jablonec" "23" "FK Teplice" "22" "1. FC Slovácko" "7" "České Budějovice" "6"
-"11" "FK Teplice" "25" "FK Jablonec" "23" "České Budějovice" "7" "Bohemians Praha" "7"
-"12" "FK Teplice" "26" "FK Jablonec" "26" "České Budějovice" "8" "Bohemians Praha" "7"
-"13" "FK Teplice" "29" "FK Jablonec" "29" "České Budějovice" "8" "Bohemians Praha" "7"
-"14" "FK Teplice" "32" "FK Jablonec" "29" "Bohemians Praha" "10" "České Budějovice" "8"
-"15" "FK Teplice" "32" "FK Jablonec" "30" "SK Kladno" "11" "Bohemians Praha" "10"
-"16" "Sparta Praha" "32" "FK Teplice" "32" "SK Kladno" "11" "Bohemians Praha" "10"
-"17" "FK Teplice" "36" "FK Jablonec" "34" "1. FC Slovácko" "14" "Bohemians Praha" "10"
-"18" "FK Teplice" "40" "Sparta Praha" "36" "1. FC Slovácko" "14" "Bohemians Praha" "10"
-"19" "FK Teplice" "40" "FK Jablonec" "40" "SK Kladno" "14" "Bohemians Praha" "11"
-"20" "Sparta Praha" "42" "FK Teplice" "40" "SK Kladno" "14" "Bohemians Praha" "14"
-"21" "Sparta Praha" "43" "FK Teplice" "43" "SK Kladno" "14" "Bohemians Praha" "14"
-"22" "Sparta Praha" "46" "FK Teplice" "44" "SK Kladno" "14" "Bohemians Praha" "14"
-"23" "Sparta Praha" "47" "Baník Ostrava" "45" "SK Kladno" "17" "Bohemians Praha" "14"
-"24" "Sparta Praha" "50" "Baník Ostrava" "48" "SK Kladno" "20" "Bohemians Praha" "14"
-"25" "Sparta Praha" "51" "Baník Ostrava" "51" "SK Kladno" "21" "Bohemians Praha" "14"
-"26" "Sparta Praha" "54" "Baník Ostrava" "54" "1. FC Slovácko" "23" "Bohemians Praha" "14"
-"27" "Sparta Praha" "55" "Baník Ostrava" "55" "SK Kladno" "24" "Bohemians Praha" "14"
-"28" "Sparta Praha" "58" "Baník Ostrava" "58" "SK Kladno" "24" "Bohemians Praha" "15"
-"29" "Sparta Praha" "59" "Baník Ostrava" "59" "SK Kladno" "25" "Bohemians Praha" "16"
-"30" "Sparta Praha" "62" "FK Jablonec" "61" "SK Kladno" "25" "Bohemians Praha" "16"
+num,t1_p,t2_p,tr2_p
+1,3,3,0
+2,4,4,0
+3,7,7,0
+4,10,10,0
+5,13,11,0
+6,14,12,1
+7,15,14,3
+8,18,17,5
+9,20,19,5
+10,23,22,6
+11,25,23,7
+12,26,26,7
+13,29,29,7
+14,32,29,8
+15,32,30,10
+16,32,32,10
+17,36,34,10
+18,40,36,10
+19,40,40,11
+20,42,40,14
+21,43,43,14
+22,46,44,14
+23,47,45,14
+24,50,48,14
+25,51,51,14
+26,54,54,14
+27,55,55,14
+28,58,58,15
+29,59,59,16
+30,62,61,16
