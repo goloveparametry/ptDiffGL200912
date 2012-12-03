@@ -1,5 +1,5 @@
-#gl09f <- read.csv("data/gl2009-12.csv", quote="") #full dataset
-gl09f <- read.csv("data/GL93-06.csv", quote="") #full dataset
+gl09f <- read.csv("data/gl2009-12.csv", quote="") #full dataset
+#gl09f <- read.csv("data/GL93-06.csv", quote="") #full dataset
 
 # "Date"   Date of match played
 # "Time" 	Time of match played
@@ -10,11 +10,11 @@ gl09f <- read.csv("data/GL93-06.csv", quote="") #full dataset
 # "Note"	Match note
 
 str(gl09f)
-gl09f <- gl09f[,c(5,6,3,4)]
+#gl09f <- gl09f[,c(5,6,3,4)]
 
 
 # rename the column names
-colnames(gl09f) <- c("H","A","Team_Home","Team_Away")
+# colnames(gl09f) <- c("H","A","Team_Home","Team_Away")
 
 # add round and season
 a <- NULL
@@ -23,7 +23,8 @@ b <- NULL
 for(i in 1:30) a <- c(a,c(rep(i,8)))
 gl09f$rnd <- a
 
-for(i in 1:13) b <- c(b,c(rep(i,240)))
+#for(i in 1:13) b <- c(b,c(rep(i,240)))
+for(i in 1:3) b <- c(b,c(rep(i,240)))
 gl09f$season <- b
 
 #gl09f$Date <- as.Date(gl09f$Date, "%d.%m.%Y")
@@ -76,8 +77,8 @@ getCurrentTable <- function(s, r) {
 # final
 
                          
-#s <- c("2009-10","2010-11","2011-12")
-s <- c("1993-94",
+s <- c("2009-10","2010-11","2011-12")
+#s <- c("1993-94",
        "1994-95",
        "1995-96",
        "1996-97",
@@ -114,7 +115,7 @@ for (i in 1:13) {
        col="green", 
        main=paste("Gambrinus liga: Bodový rozdíl", s[i]), 
        xlab="kolo", ylab="body", 
-       ylim=c(0,70))
+       ylim=c(0,78))
   lines(df$num, df$t2_p, col="orange")
   lines(df$num, df$tr1_p, col="red")
   lines(df$num, df$tr2_p, col="red")
