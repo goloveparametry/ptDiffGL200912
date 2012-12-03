@@ -1,0 +1,31 @@
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,Sparta,3,SIAD Most,3,Mladá Boleslav,0,Brno,0
+2,Sparta,6,Příbram,6,Viktoria Plzeň,0,Brno,0
+3,Liberec,9,Příbram,7,Slovácko,1,Brno,0
+4,Liberec,12,Olomouc,9,Ostrava,3,Brno,1
+5,Liberec,15,Teplice,10,Ostrava,4,Brno,2
+6,Liberec,16,Teplice,13,Viktoria Plzeň,4,Brno,3
+7,Liberec,19,Teplice,16,Viktoria Plzeň,4,Brno,3
+8,Teplice,19,Liberec,19,Viktoria Plzeň,7,Brno,4
+9,Teplice,22,Liberec,22,Viktoria Plzeň,7,Brno,5
+10,Teplice,23,Liberec,23,Blšany,9,Brno,5
+11,Liberec,26,Teplice,24,Blšany,10,Brno,8
+12,Liberec,27,Teplice,24,Blšany,10,Brno,8
+13,Liberec,28,Teplice,25,Brno,11,Blšany,11
+14,Liberec,31,Teplice,26,Blšany,12,Brno,11
+15,Liberec,34,Teplice,29,SIAD Most,13,Viktoria Plzeň,12
+16,Liberec,35,Teplice,30,Blšany,15,SIAD Most,13
+17,Liberec,38,Teplice,33,Viktoria Plzeň,15,SIAD Most,14
+18,Liberec,39,Teplice,34,Brno,17,Viktoria Plzeň,15
+19,Liberec,42,Teplice,35,Brno,18,Viktoria Plzeň,15
+20,Liberec,45,Teplice,36,Blšany,19,Viktoria Plzeň,16
+21,Liberec,46,Slavia,38,Blšany,20,Viktoria Plzeň,17
+22,Liberec,49,Teplice,38,Blšany,21,Viktoria Plzeň,17
+23,Liberec,49,Teplice,41,Vysočina Jihlava,21,Viktoria Plzeň,17
+24,Liberec,50,Teplice,42,Vysočina Jihlava,21,Viktoria Plzeň,17
+25,Liberec,51,Mladá Boleslav,45,Vysočina Jihlava,22,Viktoria Plzeň,18
+26,Liberec,54,Slavia,45,Blšany,23,Viktoria Plzeň,18
+27,Liberec,57,Mladá Boleslav,48,Blšany,23,Viktoria Plzeň,21
+28,Liberec,58,Teplice,48,Blšany,23,Viktoria Plzeň,21
+29,Liberec,59,Slavia,51,Blšany,23,Viktoria Plzeň,21
+30,Liberec,59,Slavia,54,Blšany,26,Viktoria Plzeň,21

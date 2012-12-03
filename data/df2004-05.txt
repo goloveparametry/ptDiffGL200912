@@ -1,0 +1,31 @@
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,Zlín,3,Teplice,3,Drnovice,0,Blšany,0
+2,Teplice,6,Brno,6,Drnovice,0,Blšany,0
+3,Brno,9,Teplice,7,Blšany,1,Drnovice,0
+4,Teplice,10,Sparta,10,Blšany,1,Drnovice,0
+5,Sparta,13,Brno,12,Drnovice,3,Blšany,1
+6,Sparta,16,Brno,13,Blšany,4,Drnovice,3
+7,Sparta,19,Teplice,15,Mladá Boleslav,5,Blšany,4
+8,Sparta,20,Teplice,16,Mladá Boleslav,5,Blšany,5
+9,Sparta,23,Olomouc,19,Č.Budějovice,5,Mladá Boleslav,5
+10,Sparta,26,Olomouc,22,Mladá Boleslav,6,Č.Budějovice,5
+11,Sparta,29,Teplice,23,Mladá Boleslav,7,Č.Budějovice,5
+12,Sparta,29,Teplice,26,Mladá Boleslav,10,Č.Budějovice,5
+13,Sparta,32,Teplice,29,Mladá Boleslav,10,Č.Budějovice,8
+14,Sparta,35,Teplice,29,Blšany,12,Č.Budějovice,8
+15,Sparta,36,Teplice,30,Příbram,12,Č.Budějovice,8
+16,Sparta,39,Teplice,30,Mladá Boleslav,15,Č.Budějovice,8
+17,Sparta,42,Teplice,31,Opava,15,Č.Budějovice,8
+18,Sparta,45,Slavia,34,Opava,16,Č.Budějovice,8
+19,Sparta,48,Slavia,35,Příbram,18,Č.Budějovice,8
+20,Sparta,51,Slavia,35,Příbram,18,Č.Budějovice,8
+21,Sparta,51,Teplice,36,Brno,20,Č.Budějovice,11
+22,Sparta,54,Teplice,39,Brno,20,Č.Budějovice,11
+23,Sparta,55,Teplice,40,Brno,21,Č.Budějovice,11
+24,Sparta,58,Teplice,43,Brno,21,Č.Budějovice,11
+25,Sparta,61,Teplice,43,Blšany,24,Č.Budějovice,14
+26,Sparta,61,Teplice,46,Opava,24,Č.Budějovice,14
+27,Sparta,64,Teplice,47,Opava,24,Č.Budějovice,14
+28,Sparta,64,Liberec,48,Opava,24,Č.Budějovice,15
+29,Sparta,64,Liberec,51,Opava,24,Č.Budějovice,15
+30,Sparta,64,Teplice,53,Opava,24,Č.Budějovice,15

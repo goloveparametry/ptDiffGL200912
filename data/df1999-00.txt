@@ -1,0 +1,31 @@
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,Č.Budějovice,3,Sparta,3,Bohemians,0,Blšany,0
+2,Slavia,6,Sparta,4,Bohemians,1,H. Králové,0
+3,Slavia,9,Sparta,7,Žižkov,1,H. Králové,0
+4,Slavia,10,Teplice,7,Žižkov,2,H. Králové,1
+5,Slavia,13,Sparta,10,Žižkov,3,H. Králové,1
+6,Slavia,14,Sparta,13,Olomouc,4,H. Králové,1
+7,Slavia,17,Sparta,14,Olomouc,4,H. Králové,2
+8,Slavia,20,Č.Budějovice,15,Olomouc,7,H. Králové,3
+9,Slavia,23,Sparta,18,Olomouc,7,H. Králové,6
+10,Slavia,24,Sparta,21,Olomouc,8,H. Králové,6
+11,Slavia,27,Sparta,24,H. Králové,9,Žižkov,8
+12,Slavia,28,Sparta,27,Blšany,11,Žižkov,8
+13,Slavia,31,Sparta,27,H. Králové,12,Žižkov,11
+14,Slavia,34,Sparta,30,H. Králové,13,Žižkov,11
+15,Slavia,37,Sparta,33,Olomouc,14,H. Králové,14
+16,Slavia,40,Sparta,36,Žižkov,14,H. Králové,14
+17,Slavia,43,Sparta,39,H. Králové,15,Žižkov,14
+18,Slavia,46,Sparta,42,Jablonec,16,H. Králové,15
+19,Slavia,49,Sparta,45,Jablonec,16,H. Králové,16
+20,Slavia,52,Sparta,48,Jablonec,17,H. Králové,16
+21,Slavia,55,Sparta,51,Jablonec,17,H. Králové,17
+22,Slavia,58,Sparta,54,Jablonec,18,H. Králové,18
+23,Slavia,61,Sparta,57,Jablonec,19,H. Králové,19
+24,Slavia,61,Sparta,60,Jablonec,20,H. Králové,20
+25,Slavia,64,Sparta,63,Č.Budějovice,22,H. Králové,20
+26,Sparta,66,Slavia,65,Jablonec,24,H. Králové,20
+27,Sparta,69,Slavia,65,Jablonec,25,H. Králové,23
+28,Sparta,72,Slavia,65,Č.Budějovice,26,H. Králové,23
+29,Sparta,73,Slavia,68,Č.Budějovice,26,H. Králové,23
+30,Sparta,76,Slavia,68,Č.Budějovice,26,H. Králové,23

@@ -1,0 +1,31 @@
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,Č.Budějovice,3,Zlín,3,Cheb,0,Boby Brno,0
+2,Sparta,6,Drnovice,6,Dukla Praha,0,Boby Brno,0
+3,Sparta,9,Drnovice,9,H. Králové,0,Dukla Praha,0
+4,Sparta,12,Ostrava,10,H. Králové,0,Dukla Praha,0
+5,Sparta,15,Bohemians,13,H. Králové,0,Dukla Praha,0
+6,Sparta,16,Drnovice,13,H. Králové,0,Dukla Praha,0
+7,Sparta,19,Ostrava,14,H. Králové,3,Dukla Praha,1
+8,Sparta,22,Slavia,15,H. Králové,4,Dukla Praha,2
+9,Sparta,22,Drnovice,17,H. Králové,5,Dukla Praha,2
+10,Sparta,23,Ostrava,19,H. Králové,5,Dukla Praha,2
+11,Sparta,26,Ostrava,22,H. Králové,6,Dukla Praha,2
+12,Sparta,29,Slavia,24,H. Králové,6,Dukla Praha,2
+13,Sparta,30,Slavia,27,H. Králové,9,Dukla Praha,2
+14,Sparta,31,Slavia,30,H. Králové,9,Dukla Praha,2
+15,Sparta,32,Slavia,30,H. Králové,10,Dukla Praha,2
+16,Sparta,35,Slavia,31,Vítkovice,11,Dukla Praha,3
+17,Sparta,38,Slavia,32,Vítkovice,11,Dukla Praha,3
+18,Sparta,38,Slavia,35,Vítkovice,11,Dukla Praha,3
+19,Sparta,41,Slavia,38,Vítkovice,11,Dukla Praha,3
+20,Sparta,44,Slavia,41,Vítkovice,11,Dukla Praha,3
+21,Sparta,47,Slavia,41,Vítkovice,11,Dukla Praha,3
+22,Sparta,47,Slavia,42,Vítkovice,11,Dukla Praha,4
+23,Sparta,50,Slavia,42,Vítkovice,11,Dukla Praha,7
+24,Sparta,53,Slavia,45,Vítkovice,12,Dukla Praha,8
+25,Sparta,56,Slavia,45,Vítkovice,12,Dukla Praha,8
+26,Sparta,57,Slavia,45,Vítkovice,15,Dukla Praha,8
+27,Sparta,58,Slavia,48,Vítkovice,15,Dukla Praha,8
+28,Sparta,59,Slavia,51,Vítkovice,15,Dukla Praha,9
+29,Sparta,60,Slavia,54,Vítkovice,16,Dukla Praha,10
+30,Sparta,63,Slavia,55,Vítkovice,16,Dukla Praha,11

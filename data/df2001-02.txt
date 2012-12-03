@@ -1,0 +1,31 @@
+num,t1,t1_p,t2,t2_p,tr1,tr1_p,tr2,tr2_p
+1,Slavia,3,Ostrava,3,H. Králové,0,Drnovice,0
+2,Ostrava,6,Liberec,6,H. Králové,0,Drnovice,0
+3,Ostrava,9,Liberec,9,Opava,0,H. Králové,0
+4,Žižkov,9,Slavia,9,Teplice,1,Opava,0
+5,Žižkov,12,Slavia,12,Teplice,1,Opava,1
+6,Žižkov,13,Slavia,13,Příbram,4,Opava,1
+7,Bohemians,16,Sparta,15,H. Králové,6,Opava,1
+8,Sparta,18,Bohemians,17,Příbram,7,Opava,1
+9,Sparta,21,Bohemians,20,Příbram,8,Opava,1
+10,Sparta,24,Bohemians,23,Příbram,8,Opava,1
+11,Sparta,27,Žižkov,25,Blšany,10,Opava,4
+12,Sparta,30,Žižkov,28,Blšany,10,Opava,4
+13,Sparta,33,Žižkov,31,Blšany,10,Opava,4
+14,Sparta,33,Bohemians,33,Příbram,12,Opava,4
+15,Sparta,36,Žižkov,34,Blšany,13,Opava,7
+16,Sparta,39,Žižkov,37,Blšany,13,Opava,7
+17,Sparta,42,Žižkov,40,Blšany,13,Opava,7
+18,Žižkov,43,Sparta,42,Blšany,16,Opava,7
+19,Sparta,45,Žižkov,44,Blšany,16,Opava,7
+20,Žižkov,47,Sparta,46,Blšany,16,Opava,7
+21,Sparta,49,Žižkov,48,Blšany,17,Opava,8
+22,Sparta,50,Žižkov,49,Blšany,17,Opava,8
+23,Sparta,53,Liberec,51,Blšany,18,Opava,9
+24,Liberec,54,Sparta,53,Blšany,18,Opava,9
+25,Liberec,57,Sparta,54,Blšany,21,Opava,12
+26,Liberec,60,Žižkov,56,Blšany,21,Opava,12
+27,Liberec,63,Žižkov,57,Blšany,22,Opava,12
+28,Liberec,63,Žižkov,60,Drnovice,23,Opava,15
+29,Liberec,64,Žižkov,63,Drnovice,26,Opava,15
+30,Liberec,64,Žižkov,63,Drnovice,26,Opava,18
